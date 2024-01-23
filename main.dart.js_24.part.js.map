@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_24.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/independent_business/ui/agent/profile/item_view.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/screen_util.dart","org-dartlang-sdk:///lib/ui/geometry.dart","../../../../../../development/flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../../development/flutter/packages/flutter/lib/src/painting/edge_insets.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/size_extension.dart","../../../../../../development/flutter/packages/flutter/lib/src/painting/box_decoration.dart","../../../lib/common/ext/num_ext.dart","../../../lib/common/base/app_fonts.dart"],
+  "names": ["ParentAgentInfo.build","SizeExtension.w","ScreenUtil.screenWidth","ScreenUtil.scaleWidth","AppFonts.text13","ParentAgentInfo.agentInfo","AppFonts.text14","AppFonts.text12","SetPixel|get#px","SizeExtension|get#w","SetPixel.px","","setWidth","scaleWidth","ScreenUtil.setWidth","screenWidth","_data","_uiSize","width","only","text13","SizeExtension|get#sp","agentInfo","circular","text14","text12","symmetric"],
+  "mappings": "A;;;;;;;;;CAyESA,IAKSA,iDC/CQC,SANJC;;GANVC;;GAoKsBA,ECrFZD,IAAAC;AFpBJH,OGs0DVA,SC9hDAA,sBJnSyBA,qBAC6BA,GK7D3CI;MLiEUJ;ACzDHC;GANJC;;GANVC;;GAoKsBA,ECrFZD,IAAAC;ADoHUF;;AD3GKD,OEkO7BK;AF/NQL;;QAAMA;aAAMA,cACdA;;QAIgDA;aAAMA,IAAtCA;ACpFJC;GANJC;;GANVC;;ADiGMH,eCmEgBG,ECrFZD,IAAAC;;QF0BsCH;aAAMA,eAASA;AAAzCA,UAxC4BA,GK7D3CM;AJQOL;GANJC;;GANVC;;AD2GUH,YCyDYG,ECrFZD,IAAAC;;QFgCuCH;aAAMA,cANQA;AAZ7DA,OACYA,SAMRA,KAGYA,SAQIA,QACSA,IK5GxBO,uBLsD4BP,IA4CUA,0BA3CvCA,OG8+DVK,UHv9DmBL,QACdA,gBMdLK,UNoBmBL,cMpBnBK,aF+SAA;AHxWkBJ;GANJC;;GANVC;;AD2DMH,OAYRA,WC6FwBG,ECrFZD,IAAAC;AFxBlBH,OAAOA,MAEEA,QACkCA,iBAF3BA,iBAqBlBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "gXAkFgDQAO3ErCCAFCOES,AAAACAJ8MsBCAAfbEAAhBCCmB,A,AAgBaCmB,AAAdFEAhBYGI,A,AAgBUAG,A,A,A,A;ODtHrCPS;AACsBQsB;wBAEGCAQ9EJCmB,A;GRkFvBCAAeSdAOhGRCAFCOEW,AAAACAJ8MsBCAAfbEAAhBCCmB,A,AAgBaCmB,AAAdFEAhBYGI,A,AAgBUAG,A,A,A,A,AD9FIVAOlG1CCAFCOGO,A,A,ALmGyCJAOpGhDCAFCOGM,A,A,OLmG8BWe,+HAUlBfAO9GnBCAFCOEW,AAAACAJ8MsBCAAfbEAAhBCCmB,A,AAgBaCgB,A,A,A,A,eDlFXTAO9GnBCAFCOGAJ8MsBCAAfbEEAhBYGI,A,AAgBUAsB,A,A,A,A,8C;GD/GvCIAAqCmCEAQxHZHS,A,AR0HCbAOxHvBCAFCOEW,AAAACAJ8MsBCAAfbEAAhBCCmB,A,AAgBaCgB,A,A,A,A,YDxEPTAOxHvBCAFCOGAJ8MsBCAAfbEEAhBYGI,A,AAgBUAwB,A,A,A,A,6EDpEiCOAQ5HjDJuB,A,A;IRiFvBC0B;OAAAAAAYCXU,wBAMSAU,cAAAAa,AADQe4B,A;AAdLlBAOpFZCAFCOEW,AAAACAJ8MsBCAAfbEAAhBCCmB,A,AAgBaCgB,A,A,A,A;kBD5GlBTAOpFZCAFCOGAJ8MsBCAAfbEEAhBYGI,A,AAgBUAQ,A,A,A,A;"
+  }
+}

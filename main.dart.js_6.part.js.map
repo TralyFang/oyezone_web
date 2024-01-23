@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_6.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/independent_business/ui_widge/widget_utils.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/screen_util.dart","org-dartlang-sdk:///lib/ui/geometry.dart","../../../../../../development/flutter/packages/flutter/lib/src/painting/edge_insets.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/size_extension.dart","../../../../../../development/flutter/packages/flutter/lib/src/widgets/basic.dart","../../../lib/common/ext/num_ext.dart","../../../lib/common/base/app_fonts.dart"],
+  "names": ["WidgetUtils.titleWidget","SizeExtension.w","ScreenUtil.screenWidth","ScreenUtil.scaleWidth","AppFonts.text13","SetPixel|get#px","SizeExtension|get#w","SetPixel.px","","setWidth","scaleWidth","ScreenUtil.setWidth","screenWidth","_data","_uiSize","width","only","text13","SizeExtension|get#sp"],
+  "mappings": "A;;;;EAsCgBA,QCPUC,0BANJC;;GANVC;;GAoKsBA,ECrFZD,IAAAC;ACoRdH;AC/VWI;AJqBFJ,WAEcA,QAEsBA,yBADhBA;AAEjBA,OACRA;AACAA,KAFQA,QAGAA;AAZhBA,OK42DIA,SF9hDAA,oBH5UUA,KACVA,qBAyBNA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "+NAyCwCKAMlC7BCAFCOE0B,AAAACAH8MsBCAAfbEAAhBCCmB,A,AAgBaCmB,AAAdFEAhBYGI,A,AAgBUAG,A,A,A,A;AD9JvBCU;AAIOCAOvCACU,A;yHPkCtBVS;AACeQoB;"
+  }
+}

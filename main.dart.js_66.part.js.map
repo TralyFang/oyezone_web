@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_66.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/independent_business/ui/my_service/wallet/withdraw/withdraw_provider.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_instance/src/lifecycle.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_connect/connect.dart","../../../lib/common/net/base_net_provider.dart","../../../lib/common/ext/string_ext.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/screen_util.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/size_extension.dart","../../../lib/common/net/bean/agent_withdraw_info_entity.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/logger-1.4.0/lib/src/logger.dart","../../../lib/common/net/bean/withdraw_record_entity.dart","../../../lib/common/net/bean/withdraw_progress_entity.dart","../../../lib/common/net/bean/withdraw_history_entity.dart"],
+  "names": ["WithdrawProvider","GetLifeCycleBase.onStart","GetLifeCycleBase.onDelete","GetConnect","BaseNetProvider","StringExt.large","SizeExtension.sp","WithdrawProvider.getInfo","WithdrawProvider.withdraw","WithdrawProvider.talentWithdraw","WithdrawProvider.getProgress","WithdrawProvider.getWithdrawHistory","","GetConnectInterface","onStart","_GetConnectInterface&Object&GetLifeCycleBase","onDelete","SizeExtension|get#sp","fromJson","v"],
+  "mappings": "A;;;;EAkBMA;WCTJC,YAAAC;AC8FEC;AC3EAC;AHVEJ,S;;;;;;;;;GI2HKK,IACPA;OAAOA,aACIA,UACYA,MAGUA,eCpHXC,MCRMD,WF2HCA,+BAG/BA,C;;;;;;EJlIgCE,GACrBA;kBADqBA,cACrBA;;AAAWA;WAAMA,uDAANA;OOCiDA,SPApBA;AAAjDA;;OACFA;AAFWA,uBAEXA,C;EAE6BC,MACvBA,oBAINA,C;GAL6BA,MACvBA;kBADuBA,cACvBA;;AAAIA,mBAA8BA;AACtCA,OQwDAA,IAAUA,+BRxD0BA;;AAChBA;WAAMA,kEAANA;OSN8CA,STOpBA;AAA9CA;;OAJ2BA;AACvBA,uBADuBA,C;EAOAC,MACvBA,oBAINA,C;GAL6BA,MACvBA;kBADuBA,cACvBA;4BAAIA;AACRA,OQiDAA,IAAUA,+BRjD0BA;;AAChBA;WAAMA,mEAANA;OSb8CA,STcpBA;AAA9CA;;OAJ2BA;AACvBA,uBADuBA,C;EAOEC,IACpBA,kBAEXA,C;GAH+BA,IACpBA;kBADoBA,cACpBA;;;AAAWA;WAAMA,4BAA2DA,kCAAjEA;OUlBgDA,SVmBpBA;AAAhDA;;OAF6BA;AACpBA,uBADoBA,C;EAKDC,IACnBA,kBAUXA,C;GAX8BA,IACnBA;kBADmBA,cACnBA;;;AAAWA;WAAMA,wCAEjBA,sGAFWA;OWxB+CA,SXiCpBA;AAA/CA;;OAV4BA;AACnBA,uBADmBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "gPAkBMYAGSJAADkEAAAA/EaAADcGEAAAAFY,A,AAUCIAAAAJmB,A,A,A,A,A;ACuDjBAAF3EIAO,A;AGSJAAHTIAO,A;0LI+HiBKAE1HJLM,W;mTNFgBMS;2RAK/BCmC;+GAE4BDS;+RAK5BCmC;gHAE4BDS;wTAKEAS;wYAaDAS;"
+  }
+}

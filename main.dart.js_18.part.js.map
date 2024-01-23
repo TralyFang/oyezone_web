@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_18.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/independent_business/ui_widge/square_button.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/screen_util.dart","org-dartlang-sdk:///lib/ui/geometry.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/size_extension.dart","../../../../../../development/flutter/packages/flutter/lib/src/painting/box_decoration.dart"],
+  "names": ["SquareRadiusGrayButton.build","SizeExtension.r","ScreenUtil.screenWidth","ScreenUtil.scaleWidth","SizeExtension.h","SizeExtension.w","SizeExtension.sp","SquareRadiusGrayButton.build.<anonymous function>","SizeExtension|get#r","","radius","scaleWidth","ScreenUtil.radius","screenWidth","_data","_uiSize","width","circular","SizeExtension|get#h","setHeight","SizeExtension|get#w","setWidth","ScreenUtil.setWidth","SizeExtension|get#sp"],
+  "mappings": "A;;;;;;;;;;;;CAqBSA,ICUiBC,4BANJC;;GANVC;;cAoKsBA,ECrFZD,IAAAC,GDkIwBF;ADxMPD,OEiT/BA;AD9SkBI,QAiMiBA;AAjMjBC;GANJH;;GANVC;;ADGRH,OAAOA,WAEEA,KACgBA,GAMdA,KAEKA,KACFA,SACJA,UC6L6BI,UD1L/BJ,SCPcI,MAiMiBA,QDvL/BJ,SACEA,SAEOA,SAEYA,oBCfPM,MERMN,qCHoBGA,kBAXYA,iBIwDvCA,UJ7DqBA,cI6DrBA,sBH+F0BG,ECrFZD,IAAAC,4BF3ETH,wBA8BXA,C;;AA9BiBO;EAANA,GAAMA,oBAAYA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "kXA4B6DQAGd3CC4B,AAAACAFsNgBCAA7BPEAAhBCCmB,A,AAgBaC8B,AAAdFEAhBYGI,A,AAgBUAG,A,Q,A;OD3KCCe;AAC9BCAGlBFTQ,AAAAUK,A;AHmBCCAGtBDXW,AAAAYAF8MsBVAAfbEAAhBCCmB,A,AAgBaCgB,A,A,A;uDDnKhBGAGzBPCU,A;SH4BODAG5BPTM,AAAAUQ,A;+CHkCWIAGtBVdM,qC;mCHGCAU;cAAAAsB;AAIDWAGtBDCAF8MsBVAAfbEEAhBYGI,A,AAgBUA4B,A,A,A;"
+  }
+}

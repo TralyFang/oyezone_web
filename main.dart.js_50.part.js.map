@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_50.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_state_manager/src/rx_flutter/rx_obx_widget.dart","../../../../../../development/flutter/packages/flutter/lib/src/widgets/framework.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_rx/src/rx_types/rx_core/rx_impl.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_rx/src/rx_types/rx_core/rx_interface.dart","org-dartlang-sdk:///dart-sdk/lib/_internal/js_runtime/lib/linked_hash_map.dart"],
+  "names": ["ObxWidget.createState","ObxState","State","ObxState.initState","ObxState._updateTree","ObxState.dispose","ObxState.build","RxInterface.notifyChildren","JsLinkedHashMap.isNotEmpty","Obx.build","ObxState._updateTree.<anonymous function>","","_observer","_debugLifecycleState","listen","subs","mounted","widget","notifyChildren","canUpdate","isNotEmpty","NotifyManager.canUpdate","isEmpty"],
+  "mappings": "A;;;;;;;;;;;;;AA8BMA;CANKA,GAAiBA,gBAORC,YCm4BqCC,GD14BnBF,C;;EAW/BG,GACGA;;AEuIJA,CF3IoBA,IAKfA,EEsILA,QFtIsBA,sBAC1BA,C;GAEKC,WCi6BeA,SD/5BhBA,QAASA,YAEbA,C;CAGKC,aAfmBA;;AAgBtBA;AACAA;AACMA,SACRA,C;CAGOC,IAC0CA,YAAlBA,SCo2BfA,YEp4BkBA;;AAEjBA;ID6HKC,IE3GFC;ADfhBF;AH2BAA,QAAmDA,C;AAgB9BG;EAAlBA,GAAWA,WAAOA,OAAEA,C;;;EA7BdC,GAAKA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "qZAwB4BWkB;mBAAAAAAORCY,AADdDACo4BmDEG,A,A;2CD73B9CCC;AAAPCI;EAAODQ;uCAIHES;qCAOJDgB;2DAOwCEY;AAA1BCwBG7BACID4HqBCAE1GbEe,A,A,+f;"
+  }
+}

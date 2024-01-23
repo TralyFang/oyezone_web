@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_49.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/common/base/app_colors.dart"],
+  "names": ["AppColors.getStatusColorByString"],
+  "mappings": "A;;;;GAkDeA,IACXA,WAAoBA,QAAOA,GAS7BA;sCANMA,QAAOA,GAMbA;cAJMA,QAAOA,GAIbA;QAFMA,QAPuBA,GAS7BA,E",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": ""
+  }
+}

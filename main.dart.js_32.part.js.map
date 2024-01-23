@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_32.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/independent_business/ui/agent/agent_agreement_page.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/screen_util.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/size_extension.dart","../../../../../../development/flutter/packages/flutter/lib/src/widgets/framework.dart","org-dartlang-sdk:///lib/ui/geometry.dart","../../../../../../development/flutter/packages/flutter/lib/src/painting/edge_insets.dart"],
+  "names": ["AgentAgreementPage","AgentAgreementPage.createState","_AgentAgreementPageState","SizeExtension.sp","_AgentAgreementPageState.titleStyle","_AgentAgreementPageState.contentStyle","_AgentAgreementPageState.subTitleStyle","State","_AgentAgreementPageState.build","SizeExtension.w","ScreenUtil.screenWidth","ScreenUtil.scaleWidth","","titleStyle","SizeExtension|get#sp","contentStyle","subTitleStyle","_debugLifecycleState","SizeExtension|get#w","setWidth","scaleWidth","ScreenUtil.setWidth","screenWidth","_data","_uiSize","width","all"],
+  "mappings": "A;;;0DAMQA;2BAAgDA,C;;;;;;;;;;;;;;CAG7BC;AAAiBA,OAGtCA,UACeC,SACgBA,MAAkCA,gBCiB7CC,MCRMC,WFTyEF,4BAClFA,SADcA,mBCiBXC,MCRME,oCFJRH,SALaA,mBCiBXC,MCRMG,WFTyEJ,6BGo5BhDK,GHz5BaN,C;;CAa7DO,IAEOA,kDCOUC,SANJC;;GANVC;;OAoKsBA,EGrFZD,IAAAC;AJrEuBH,WAAwBA;MAK5CA;AAXdA,MAYqEA;AAZ5EA,gBAEUA,KACGA,MAGOA,KAAKA,KAA0DA,KACzEA,WAAyDA,sCACzDA,6RAIAA,qDACAA,iaAMAA,gCACAA,uUAKAA,+CACAA,wdAKAA,oCACAA,qoBAKAA,wCACAA,yLAIAA,+BACAA,0KAIAA,4BACAA,wYAMAA,kDACAA,kaAMAA,uCACAA,uRAKAA,uCACAA,qgBAMAA,sCACAA,0QAIAA,gDACAA,qVAIAA,kDACAA,iSAIAA,2CACAA,oZAIAA,8CACAA,sVAIAA,iCACAA,OAEWA,SAA2CA,oBC9F1CL,MCRMK,wGFuGlBA,0MAlGYA,aK0UlBA,4BLjONA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "+bAS4CYUAIvBC+BACFCAESAFM,W,4B,AFRIGS,AAFFFmB,AAEEEAACNDAEOEFM,oC,A,AFJKIS,AANHHmB,AAMGGAAAuBFAEI5BFM,W,A,AFVEC6B,AADfDAGs5BmDKG,A,A;4EHv4BlBCAEnBrBNS,AAAAOAD8MsBCAAfbEAAhBCCmB,A,AAgBaCuB,AAAdFEAhBYGI,A,AAgBUAI,A,A,A;i9MD1ECXAEtG/BFM,wG;uNFIac4B;"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_59.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/independent_business/ui/user_list/invite/talent_invite/talent_invite/talent_invite/view.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_instance/src/get_instance.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_instance/src/extension_instance.dart","../../../lib/independent_business/ui/user_list/invite/talent_invite/talent_invite/invite_logic.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_state_manager/src/rx_flutter/rx_obx_widget.dart"],
+  "names": ["TalentInvitePage","TalentInvitePage.build","Inst.find","TalentInvitePage.build.<anonymous function>","Inst|find","","setProvider"],
+  "mappings": "A;;;0DAUQA;2BAA8CA,C;;;;;;;;;;CAG7CC,IACCA;AAAQA;;GCSSC;AC6CiBD,iBD7CMC;ADR5BD,CGKbA;AHJLA;GCOuBC;AC6CiBD,iBD7CMC,eDLRD;AAEtCA,OAAOA,KACGA,2BACgBA,GI8CtBA,SJ7CQA,4BAUdA,C;;AATaE;EADCA,GACRA,YACYA,KAGRA,cAAaA,sBAGlBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "obAcsBIAEsDQCI,iBAAAAgB,A;CFrD1BCY;UAGkBFAEkDQCI,iB;AFtDRDAEsDQCe,A;8CF7ClBAS;"
+  }
+}

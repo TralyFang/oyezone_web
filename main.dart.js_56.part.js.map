@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_56.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../../development/flutter/packages/flutter/lib/src/material/input_border.dart","../../../../../../development/flutter/packages/flutter/lib/src/painting/edge_insets.dart","org-dartlang-sdk:///lib/_engine/engine/renderer.dart","org-dartlang-sdk:///lib/ui/path.dart","org-dartlang-sdk:///lib/ui/geometry.dart","org-dartlang-sdk:///dart-sdk/lib/_internal/js_runtime/lib/core_patch.dart"],
+  "names": ["OutlineInputBorder.isOutline","OutlineInputBorder.copyWith","OutlineInputBorder.dimensions","OutlineInputBorder.scale","OutlineInputBorder.lerpFrom","OutlineInputBorder.lerpTo","OutlineInputBorder.getInnerPath","Path","OutlineInputBorder.getInnerPath[function-entry$1]","OutlineInputBorder.getOuterPath","OutlineInputBorder.getOuterPath[function-entry$1]","OutlineInputBorder.paintInterior","OutlineInputBorder.preferPaintInterior","OutlineInputBorder._gapBorderPath","RRect.tlRadius","RRect.trRadius","RRect.brRadius","RRect.blRadius","OutlineInputBorder.paint","OutlineInputBorder.paint[function-entry$2$textDirection]","OutlineInputBorder.==","OutlineInputBorder.hashCode","","all","renderer","deflate","fromLTWH","tlRadius","elliptical","width","trRadius","brRadius","blRadius","runtimeType"],
+  "mappings": "A;;;;;;;;;;;;GAkVWA,GAAaA,QAAIA,C;EAGPC,IAnCbA,kBAyC6BA;AADjCA,oBAGiCA,OADIA,KAGvCA,C;GAGuBC,GCIjBA,UDHkBA,EAAWA;AAAjCA,uBACFA,C;EAGmBC,MAEHA;AADdA,OAtDIA,aAyDUA,KADEA,iBAGlBA,C;EAGaC,MACXA;sBAG+BA,QAAaA,OAAcA;CAAgBA;AAC/CA,QAAaA,OAAYA;AAFlDA,OAjEEA,UAoEoBA,OAI1BA,CADEA,OAAaA,YACfA,C;EAGaC,MACXA;sBAG+BA,WAAKA,IAAsBA;CAAgBA;AAC/CA,WAAKA,IAAoBA;AAFlDA,OA9EEA,UAiFoBA,OAI1BA,CADEA,OAAaA,YACfA,C;EAGKC,MEjYkBC,aCAWD;AHkYzBA,KACmBA,IAAbA,SIsOgBA,QJtO0CA,EAAWA;AADlFA,QAEFA,C;EAHKE,2B;EAMAC,MEvYkBF,aCAWE;AHwYzBA,KACmBA,IAAbA;AADbA,QAEFA,C;EAHKC,2B;EAMAC,UACHA,KAA8BA,IAAbA,WACnBA,C;GAGSC,GAAuBA,QAAIA,C;EAE/BC,cAIuBA,yCAGZA,MACAA,MACAA,MACAA,MAGAA,MAAoBA,kBAGpBA,MIrPVA;GJwP8BA;;AAApBA;GACAA;GAAqBA;;AAArBA;GAMqBA;;AAArBA;GACAA;AE/aON,SCAWM;ACqU5BC,kBJoHqBD,KAAUA,IAEjCA,KI5QEA,2CJ4Q6BA,UADWA;KAK1CA,aAA+BA,EAAWA;AAI5CA,QACEA;AAMEA;AIgKcA;AJhKlBA,UACEA;AACAA;AIvIEE,kBJwIuBF,KApBQA,IAqB/BA,kDAEGA,QAGoCA,YADVA;AAC/BA,iDI9IEG,kBJkJqBH,KA9BUA,IA+BjCA;AAEFA;AIrJIG,kBJsJqBH,KAlCUA,IAmCjCA,KI7SEA;AJiTJA;AI3JII,kBJ4JqBJ,KAxCUA,IAyCjCA,KInTEA;AJuTJA;AAEAA,QACFA,C;EAWKK,cAWiBA,8BACAA,UIyGSA,MJxGiBA;AAC9CA,wBACEA;QAEkDA;AAA5BA;CAA4DA;QAC7DA,WAGjBA,KADkBA;AAFtBA;OAOIA,KADkBA;AANtBA,OAUJA,C;EA5BKC,uC;CA+BSC,MACZA;AADcA,mBAWhBA;AAVEA,SACEA,QASJA;AAPYA,aKxdYA,OLydpBA,QAMJA;AAJEA,0BACaA,SAAcA,KACdA,SAAgBA,MAChBA,MAAcA,EAC7BA,C;EAGQC,IAAYA,OAAOA,SAAKA,OAAYA,OAAcA,uEAAWA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "+WA0VWsBkB;8CASWCU;mEAKXDa;2HAWEAU;gIAaAAU;sCAWFAAGlYgBEa,K;kBHmY0BCQ;yDAK1CHAGxYgBEa,K;gOHgaIE0B;+DAsBTJAGtbKES,K;AHybPGAIgIYCkB,A;cJ/JDF2C;uFAgDMGM;0CAGfCAI+GUFkB,A;oJJrGZGAIwGYHkB,A;qCJpGZGAIoGYHkB,A;cJzJDF2C;cA2DXMAImGYJkB,A;cJxJDF8D;iFAqFNDM;qTAsBIQO;"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_17.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/independent_business/ui/agent/agent_setting/view.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_instance/src/get_instance.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/get-4.6.6/lib/get_instance/src/extension_instance.dart","../../../../../../development/flutter/packages/flutter/lib/src/widgets/framework.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/screen_util.dart","org-dartlang-sdk:///lib/ui/geometry.dart","../../../../../../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-5.9.0/lib/src/size_extension.dart","../../../lib/independent_business/ui_widge/square_button.dart","../../../../../../development/flutter/packages/flutter/lib/src/painting/edge_insets.dart"],
+  "names": ["AgentSettingPage","AgentSettingPage.createState","_AgentSettingPageState","Inst.find","_AgentSettingPageState.logic","_AgentSettingPageState.state","State","_AgentSettingPageState.build","ScreenUtil.screenWidth","ScreenUtil.scaleWidth","SizeExtension.h","SizeExtension.sp","SizeExtension.w","_AgentSettingPageState.dispose","_AgentSettingPageState.build.<anonymous function>","","logic","Inst|find","state","_debugLifecycleState","screenWidth","_data","width","SizeExtension|get#w","setWidth","scaleWidth","ScreenUtil.setWidth","_uiSize","SizeExtension|get#h","setHeight","SizeExtension|get#sp","fromLTRB","symmetric"],
+  "mappings": "A;;;0DA0BMA;4B;;;;;;;;;;;;;;;;;;;CAEoBC,GAAiBA;AAI3BC;;GCTWC;AC6CiBC,iBD7CMD;ADQ5CF,GCRqBE;ADKgBF,kCCLOE,MC6CNE,YFnCEH,KGi4BWI,GHt4BUL,C;;CAQ1DM,IAEKA,8DIPYA,SANJC;;GA8JYD,ECrFZC;GD/EVC;;SC+EUA;ALlDRF,WIgL6BG;AJ7K7BH,qBAESA,SAA2BA,mBItBxBI,MERMJ,WN8BqEA;AAEvFA,WIxBYG,MAiMiBA;AAjMjBE;GANJJ;;GANVC;;AA6M+BC;;AJtKpBH,UAMGA,KOnDlBA,qEPuDmBA,eOvDnBA,kEP+DmBA,eO/DnBA,yEP8EmBA,0BI4FOE,ECrFZD,IAAAC,YLnCSF;AIhCLG,QAiMiBA;AAjMjBA,QAiMiBA;AJxH7BH,QAESA,sBAEEA,SAvDyBA,mBItBxBI,MERMJ,WN8BqEA,iDQqS7FA;AJ3TkBK;GANJJ;;GANVC;;AA6M+BC;AJ3LvCH,OAAOA,SAECA,KACGA,MAIEA,KAGKA,eAgECA,QAMGA,KOxGlBA,8DP4GmBA,eO5GnBA,yEPmHmBA,0BIuDOE,ECrFZD,IAAAC,YLnCSF,QAwEjBA,SIxGYG,MAiMiBA,QJtFjBH,ufArFwBA,GItBxBI,MERMJ,sBNuBmBA,IADFA,aAJzBA,aQ8VhBA,4BR7ONA,C;CAGKM,GACCA,KAAJA;AACMA,SACRA,C;;;EA5FyBC,GACDA,KAAJA,sBAEDA,C;;;EAKMA,GACDA,KAAJA,4BAEDA,C;;;EAYMA,GACDA,KAAJA,4BACDA,C;;;EA4BMA,GACDA,KAAJA,6BACDA,C;;;EAKMA,GACDA,KAAJA,2BACDA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "siBA4B2CeAAIvBCgBAAACAEoCUFI,iBAAAAmB,A,A,GFnCgBGAAA1BDAEmCUFI,A,A,A;kCFxCaAAAIvBCAAAACAEoCUFM,A,A,AFnCgBGAAA1BDY,K,AAFdFAGm4BmDIG,A,A;wFHx3BxCJS;AAAaKAI6IFCmB,EAAWCM,A;AJ5IgBCAMnCrCCAF8MsBCAAfCEyB,AAAQLI,A,A,A;WJtJtBMAMtCTCU,A;iDN0CwDCAM9BvDfM,W;4CNiCQaAM7CTbM,AAAAcQ,A;ANkDmBNAMrDnBRW,AAAASAF8MsBCAAfbLAAhBCCmB,A,AAgBaMgB,A,A,A;AJzILCAMnDlBCe,A;eNsDAdqE;eAQAAkE;eAeAAyE;0BA3BmBQAMrDnBCAF8MsBCAAfbLEAhBYEI,A,AAgBUAY,A,A,A;QJ9FEMAM9FjCbQ,AAAAcK,A;AN8F0CDAM9F1CbQ,AAAAcK,A;0DNiG0DCAMrFzDfM,W;iDNkFiBgB0B;AASCRAM1GnBRW,AAAASAF8MsBCAAfbLAAhBCCmB,A,AAgBaMgB,A,A,A;AJpFLCAMxGlBCS,A;4DN2GAd8D;eAOAAyE;0BAXmBQAM1GnBCAF8MsBCAAfbLEAhBYEI,A,AAgBUAY,A,A,A;iBJ/DtBMAM7HTbM,AAAAcQ,A;0fNyIqDCAM7HpDfM,sB;8BNoBWiB4B;"
+  }
+}
